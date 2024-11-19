@@ -1,22 +1,24 @@
-## Bem-vindo(a)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4EEE0&height=100&section=header&fontSize=30&fontColor=13185&animation=twinkling&fontAlignY=35" />
+<div align="center">
 
- <div>
-   <a href="https://github.com/aleep98">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleep98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleep98&layout=compact&langs_count=6&theme=tokyonight"/>
+
+<h1> Olá Meu nome é Alexandre! 👨🏻‍💻 </h1> 
+
+<h3>Contato</h3>
+<p>
+  <a href="www.linkedin.com/in/alexandre-passeberg-bb3585266">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</p>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=aleep98&show_icons=true&theme=dracula&count_private=false&include_all_commits=true"/>
+  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aleep98&hide=pascal&layout=compact&theme=tokyonight"/>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
- 
-<div> 
-  <a href="https://www.instagram.com/l.aleep/profilecard/?igsh=cWNwbjBtc2RlZHlx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "nembaxd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandre-passeberg-bb3585266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<h3>Sobre mim:</h3>
+<h4>Sou um desenvolvedor front-end em início de carreira, focado em construir experiências de usuário modernas e acessíveis. Com conhecimentos em HTML, CSS e JavaScript, busco sempre aprender e aplicar boas práticas para desenvolver projetos otimizados e responsivos.</h4>
+
+## Tecnologias que atuo no meu dia dia:
+ <img src="https://skillicons.dev/icons?i=js,javascript,html,css"/>
+	
 </div>
