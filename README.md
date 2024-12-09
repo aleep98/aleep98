@@ -19,6 +19,6 @@
 <h4>Sou um desenvolvedor front-end em início de carreira, focado em construir experiências de usuário modernas e acessíveis. Com conhecimentos em HTML, CSS e JavaScript, busco sempre aprender e aplicar boas práticas para desenvolver projetos otimizados e responsivos.</h4>
 
 ## Tecnologias que atuo no meu dia dia:
- <img src="https://skillicons.dev/icons?i=js,html,css"/>
+ <img src="https://skillicons.dev/icons?i=js,html,css,react.js"/>
 	
 </div>
