@@ -1,85 +1,63 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4A89DC,100:5D9CEC&height=80&section=header&text=Alexandre%20Passeberg&fontSize=30&fontColor=fff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A89DC,100:5D9CEC&height=140&section=header&text=Alexandre%20Passeberg&fontSize=38&fontColor=fff&animation=fadeIn" />
 
 <div align="center">
 
-# 👨🏻‍💻 Desenvolvedor Front-End
+### <img src="https://raw.githubusercontent.com/aleep98/aleep98/main/assets/hand.gif" width="28" /> Olá! Seja bem-vindo ao meu portfólio  
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4A89DC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End+Júnior;Apaixonado+por+tecnologia+e+inovação;Sempre+em+busca+de+evolução" alt="Typing Animation" />
+</p>
 
-Profissional em início de carreira, dedicado a construir interfaces modernas, eficientes e acessíveis.  
-Tenho como objetivo criar aplicações com alta qualidade, foco em detalhes e excelente experiência para o usuário.
-
-</div>
-
----
-
-## 📌 Sobre mim
-
-Sou um desenvolvedor com forte interesse em tecnologias do ecossistema **JavaScript** e em engenharia de software.  
-Atualmente, concentro meus estudos em:
-
-- **JAVA**
-- **React** e **Next.js**
-- **TypeScript**
-- Arquitetura Front-End e boas práticas
-- **Back-End** com Node.js e bancos de dados (Prisma e PostgreSQL)
-
-Estou em constante evolução, buscando me tornar um **profissional completo e preparado para atuar em projetos reais**.
+Sou um **desenvolvedor front-end** focado em construir interfaces modernas, acessíveis e de alta performance.  
+Trabalho com dedicação para unir **boa arquitetura**, **experiência do usuário**, e **boas práticas** em cada projeto.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,prisma,git,github,vscode,postgres,java&theme=light" />
-
-</div>
+## 🔥 Sobre mim
+🎯 Especializando-se em **React**, **Next.js** e **TypeScript**  
+🧠 Estudando **back-end**, **APIs** e **bancos de dados** (rumo ao fullstack)  
+🚀 Buscando sempre desafios que me façam evoluir  
+🤝 Aberto para colaborar em projetos reais e aprender com outros devs  
 
 ---
 
-## 📂 Projetos em Destaque
+## 🛠️ Tecnologias & Ferramentas
 
-### 🔹 **Sistema de Autenticação com Next.js e Prisma**
-Aplicação completa com cadastro, login, cookies seguros, validação, ReCAPTCHA e integração com banco de dados.
-
-### 🔹 **Dashboard Administrativo**
-Interface responsiva com gráficos, filtragem de dados e design limpo utilizando React + Tailwind.
-
-### 🔹 **Landing Pages Otimizadas**
-Desenvolvimento de páginas de marketing com alta performance, SEO aprimorado e boas práticas de acessibilidade.
-
-> *Mais projetos disponíveis nos repositórios.*
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,prisma,git,vscode,figma&theme=light" />
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Estatísticas
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aleep98&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleep98&layout=compact&theme=transparent&hide_border=true" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aleep98&show_icons=true&theme=transparent&icon_color=4A89DC&title_color=4A89DC&text_color=3c3c3c&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleep98&layout=compact&theme=transparent&title_color=4A89DC&text_color=3c3c3c&hide_border=true" />
 </div>
 
 ---
 
-## 🌐 Contato
+## 🚀 Projetos em destaque
 
-Sinta-se à vontade para entrar em contato:
+> *(Adicione aqui seus melhores projetos futuramente — posso criar cards personalizados se quiser!)*
 
-<div align="left">
+---
 
-- **LinkedIn:** https://www.linkedin.com/in/alexandre-passeberg-bb3585266  
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexandre-passeberg-bb3585266" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%234A89DC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Curiosidades
+- 📖 Gosto de aprender ensinando — conhecimento compartilhado sempre rende mais  
+- 🎮 Fã de jogos com grandes histórias e sistemas profundos  
+- 🧩 Detalhista: gosto de entender o *porquê* de cada solução  
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5D9CEC,100:4A89DC&height=120&section=footer" />
 
 </div>
-
----
-
-## 💬 Curiosidades
-
-- Tenho grande interesse em arquitetura de software e boas práticas de desenvolvimento.
-- Costumo compartilhar aprendizados com amigos e colegas, pois acredito que ensinar é uma excelente forma de evoluir.
-- Sou entusiasta de jogos com sistemas profundos, mecânicas inteligentes e boas narrativas — sempre encontro inspiração neles.
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5D9CEC,100:4A89DC&height=60&section=footer" />
