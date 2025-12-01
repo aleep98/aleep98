@@ -22,7 +22,7 @@ Trabalho com dedicação para unir **boa arquitetura**, **experiência do usuár
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,prisma,java,git,vscode,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,prisma,java,git&theme=light" />
 
 ---
 
