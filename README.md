@@ -14,7 +14,7 @@ Trabalho com dedicação para unir **boa arquitetura**, **experiência do usuár
 
 ## 🔥 Sobre mim
 🎯 Especializando-se em **React**, **Next.js** e **TypeScript**  
-🧠 Estudando **back-end**, **APIs** e **bancos de dados** (rumo ao fullstack)  
+🧠 Estudando **back-end com Java**, **APIs** e **bancos de dados** (rumo ao fullstack)  
 🚀 Buscando sempre desafios que me façam evoluir  
 🤝 Aberto para colaborar em projetos reais e aprender com outros devs  
 
@@ -22,7 +22,7 @@ Trabalho com dedicação para unir **boa arquitetura**, **experiência do usuár
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,prisma,git,vscode,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,prisma,java,git,vscode,figma&theme=light" />
 
 ---
 
@@ -32,12 +32,6 @@ Trabalho com dedicação para unir **boa arquitetura**, **experiência do usuár
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aleep98&show_icons=true&theme=transparent&icon_color=4A89DC&title_color=4A89DC&text_color=3c3c3c&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleep98&layout=compact&theme=transparent&title_color=4A89DC&text_color=3c3c3c&hide_border=true" />
 </div>
-
----
-
-## 🚀 Projetos em destaque
-
-> *(Adicione aqui seus melhores projetos futuramente — posso criar cards personalizados se quiser!)*
 
 ---
 
