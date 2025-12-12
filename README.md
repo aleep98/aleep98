@@ -14,7 +14,6 @@ Buscando evoluir diariamente no **Back-end**, assim alcançar meu objetivo como 
 
 ## 🚀 Sobre mim
 
-🎯 Aprofundando conhecimentos em **React**, **Next.js**, **TypeScript**  
 📚 Estudando **APIs, Java e bancos de dados (PostgreSQL)**  
 👨🏻‍💻 Amante de tecnologia, design, jogos e sistemas complexos  
 🧠 Sempre focado em aprender com profundidade, entendendo o “porquê” por trás das coisas  
@@ -29,13 +28,7 @@ Buscando evoluir diariamente no **Back-end**, assim alcançar meu objetivo como 
 ---
 
 ## 🟡 **Estudando Agora**
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,express&theme=light" />
-
-Focado em JAVA
----
-
-## 🟢 **Quero Aprender em Breve**
-<img src="https://skillicons.dev/icons?i=aws,python,go,nest,graphql,redis,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=java&theme=light" />
 
 ---
 
