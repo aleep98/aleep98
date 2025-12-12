@@ -44,7 +44,8 @@ Buscando evoluir diariamente no **Back-end**, assim alcançar meu objetivo como 
 <img src="https://github-profile-trophy.vercel.app/?username=aleep98&theme=dracula&margin-w=10&row=1" />
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/aleep98/aleep98/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/aleep98/aleep98/output/github-snake.svg" alt="Snake animation" />
+/>
 
 </div>
 
