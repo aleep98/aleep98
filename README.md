@@ -1,57 +1,47 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A89DC,100:5D9CEC&height=140&section=header&text=Alexandre%20Passeberg&fontSize=38&fontColor=fff&animation=fadeIn" />
+<h2 align="left">Hi 👋! My name is Alexandre ... and I'm a Dev Full-Stack.</h2>
+
+###
 
 <div align="center">
-
-### <img src="https://raw.githubusercontent.com/aleep98/aleep98/main/assets/hand.gif" width="28" /> Olá! Seja bem-vindo ao meu portfólio  
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4A89DC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End+Júnior;Apaixonado+por+tecnologia+e+inovação;Sempre+em+busca+de+evolução" alt="Typing Animation" />
-</p>
-
-Sou um **desenvolvedor front-end** focado em construir interfaces modernas, acessíveis e de alta performance.  
-Trabalho com dedicação para unir **boa arquitetura**, **experiência do usuário**, e **boas práticas** em cada projeto.
-
----
-
-## 🔥 Sobre mim
-🎯 Especializando-se em **React**, **Next.js** e **TypeScript**  
-🧠 Estudando **back-end com Java**, **APIs** e **bancos de dados** (rumo ao fullstack)  
-🚀 Buscando sempre desafios que me façam evoluir  
-🤝 Aberto para colaborar em projetos reais e aprender com outros devs  
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,prisma,java,git&theme=light" />
-
----
-
-## 📈 Estatísticas
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aleep98&show_icons=true&theme=transparent&icon_color=4A89DC&title_color=4A89DC&text_color=3c3c3c&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleep98&layout=compact&theme=transparent&title_color=4A89DC&text_color=3c3c3c&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🌐 Onde me encontrar
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexandre-passeberg-bb3585266" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%234A89DC?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+###
 
----
-
-## ✨ Curiosidades
-- 📖 Gosto de aprender ensinando — conhecimento compartilhado sempre rende mais  
-- 🎮 Fã de jogos com grandes histórias e sistemas profundos  
-- 🧩 Detalhista: gosto de entender o *porquê* de cada solução  
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5D9CEC,100:4A89DC&height=120&section=footer" />
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
