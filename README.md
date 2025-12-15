@@ -53,6 +53,9 @@ Buscando evoluir diariamente no **Back-end**, assim alcançar meu objetivo como 
 <a href="https://www.linkedin.com/in/alexandre-passeberg-bb3585266" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<a href="https://www.instagram.com/l.aleep/?next=%2F" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
 ---
 
