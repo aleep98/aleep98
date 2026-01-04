@@ -32,28 +32,12 @@ Buscando evoluir diariamente no **Back-end**, assim alcançar meu objetivo como 
 
 ---
 
-# 📊 Estatísticas & Conquistas
-
-<div align="center">
-
-<!-- Stats -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aleep98&show_icons=true&theme=dracula&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleep98&layout=compact&theme=dracula&hide_border=true" />
-
-<!-- Troféus -->
-<img src="https://github-profile-trophy.vercel.app/?username=aleep98&theme=dracula&margin-w=10&row=1" />
-
-
-</div>
-
----
-
 # 🌐 Onde me encontrar
 
 <a href="https://www.linkedin.com/in/alexandre-passeberg-bb3585266" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://www.instagram.com/l.aleep/?next=%2F" target="_blank">
+<a href="https://www.instagram.com/aleep.dev/?next=%2F" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
