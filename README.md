@@ -1,56 +1,62 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A89DC,100:5D9CEC&height=140&section=header" />
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<div align="center">
-
-# 👨🏻‍💻 Alexandre Passeberg
-
-<!-- Animação - Readme Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=4A89DC&center=true&vCenter=true&lines=Desenvolvedor+Front-End;Futuro+Fullstack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo)](https://git.io/typing-svg)
-
-💡 Desenvolvedor Front-End Júnior focado em criar interfaces modernas, performáticas e com ótima experiência de usuário.  
-Buscando evoluir diariamente no **Back-end**, assim alcançar meu objetivo como Fullstack Developer com boas práticas de arquitetura.
+<p align="left">
+My name is Alexandre and I'm a Back-end Developer in progress, from Brazil 🇧🇷
+</p>
 
 ---
 
-## 🚀 Sobre mim
+<h2 align="left">About me</h2>
 
-📚 Estudando **APIs, Java e bancos de dados (PostgreSQL)**  
-👨🏻‍💻 Amante de tecnologia, design, jogos e sistemas complexos  
-🧠 Sempre focado em aprender com profundidade, entendendo o “porquê” por trás das coisas  
-
----
-
-# 🧩 Tech Stack
-
-## 🔵 **Atual**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,prisma,git,github,nodejs,java,vscode&theme=light" />
+<p align="left">
+✨ Creating bugs since 2023<br>
+📚 Currently learning Back-end development with Java, APIs and Databases<br>
+🎯 Goal: Become a solid Back-end Developer and work with real-world systems<br>
+🎲 Fun fact: I like understanding how things work behind the scenes
+</p>
 
 ---
 
-## 🟡 **Estudando Agora**
-<img src="https://skillicons.dev/icons?i=java&theme=light" />
+<h2 align="left">I work with</h2>
 
----
+<div align="left">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
 
-# 🌐 Onde me encontrar
+  <!-- Spring (opcional, se você for estudar em breve) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
 
-<a href="https://www.linkedin.com/in/alexandre-passeberg-bb3585266" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://www.instagram.com/aleep.dev/?next=%2F" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
 
----
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
 
-# ✨ Curiosidades sobre mim
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
 
-- 🎮 Apaixonado por animes, mangás, livros com boas histórias e jogos com sistemas complexos e desafiadores.
-- 🧩 Gosto de resolver problemas entendendo como tudo funciona por trás  
-- 🚀 Ambição: criar projetos que ajudem pessoas de verdade  
+  <!-- Node.js (para APIs simples / integração) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
 
----
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5D9CEC,100:4A89DC&height=120&section=footer" />
-
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
+
+---
+
+<h2 align="left">Automation & IA</h2>
+
+<p align="left">
+🤖 Studying AI Agents and automations with n8n<br>
+<!-- ⚙️ Focus on practical workflows and integrations (APIs, WhatsApp, Telegram) -->
+</p>
