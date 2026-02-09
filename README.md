@@ -4,7 +4,7 @@
 My name is Alexandre and I'm a Back-end Developer in progress, from Brazil 🇧🇷
 </p>
 
----
+
 
 <h2 align="left">About me</h2>
 
@@ -52,7 +52,7 @@ My name is Alexandre and I'm a Back-end Developer in progress, from Brazil 🇧�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
----
+
 
 <h2 align="left">Automation & IA</h2>
 
